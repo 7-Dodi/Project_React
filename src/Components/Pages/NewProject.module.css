@@ -1,0 +1,9 @@
+.project{
+    width: 530px;
+    margin: 0 auto;
+    padding: 3em;
+}
+
+.project h1{
+    font-size: 2.5em;
+}

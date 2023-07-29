@@ -1,0 +1,47 @@
+.details{
+    padding: 2em;
+}
+
+.details h1,
+.details h2,
+.details p{
+    margin-bottom: 0.5em;
+}
+
+.details h1{
+    background-color: #222;
+    color: #d11fd1;
+    padding: 0.4em;
+}
+
+.details span{
+    font-weight: bold;
+}
+
+.container, .formConteiner{
+    border-bottom: 1px solid #7a7a7a;
+    margin-bottom: 1.2em;
+    padding-bottom: 1.2em;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.btn{
+    background-color: #222;
+    color: #fff;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    transition: all 0.5s;
+    cursor: pointer;
+    max-height: 40px;
+    border: none;
+}
+
+.btn:hover{
+    color: #d11fd1;
+}
+
+.info{
+    width: 100%;
+}

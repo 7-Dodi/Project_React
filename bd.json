@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "name": "Desenvolver aplicação Java",
+      "getbuy": "1000",
+      "category": {
+        "id": "2",
+        "title": "Desenvolvimento"
+      },
+      "cost": 700,
+      "service": [
+        {
+          "name": "Contratar profissional Java",
+          "cost": "500",
+          "desciption": "Contrato de desenvolvedor Java",
+          "id": "1a1e0e4e-64ed-4415-bee2-08e8678147a3"
+        },
+        {
+          "name": "Montar esquema de desenvolvimento",
+          "cost": "200",
+          "desciption": "Esquema de desenvolvimento do projeto",
+          "id": "ff83dfe3-11fc-4890-bc33-64c2759e2b42"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Infra"
+    },
+    {
+      "id": 2,
+      "title": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "title": "Design"
+    },
+    {
+      "id": 4,
+      "title": "Planejamento"
+    }
+  ]
+}
